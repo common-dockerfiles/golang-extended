@@ -1,4 +1,4 @@
-FROM golang:1.5.2
+FROM golang:1.5.3
 MAINTAINER Francois Hill <francoishill11@gmail.com>
 LABEL Description="A golang container with nodejs + gulp + jspm"
 
